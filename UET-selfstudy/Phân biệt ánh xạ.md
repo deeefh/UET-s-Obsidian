@@ -1,0 +1,8 @@
+Ánh xạ:
+
+	- Đơn ánh: Mỗi phần tử x chỉ chiếu đến một phần tử y duy nhất, không thể có x1 != x2 mà f(x1) = f(x2). Nhưng điểm đặc biệt ở đây là ở tập y có thể
+bị thừa (tức có thể có phần tử y không có x nào có thể chiếu đến được)
+
+	- Toàn ánh: Chỉ là việc kiểm tra xem các phần tử thuộc y chắc chắn có ÍT NHẤT MỘT phần tử x chiếu đến
+
+	- Song ánh: Vừa thỏa mãn đơn ánh và song ánh (quy tắc 1-1)
