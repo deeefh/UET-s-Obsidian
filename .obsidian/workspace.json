@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef5084a9c544087a",
+            "id": "9a177eba811e0357",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "UET-selfstudy/NOTE/Pasted image 20261023111119.png"
+                "file": "SomeExtraKnowledge/Computer Networks.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261023111119"
+              "icon": "lucide-file",
+              "title": "Computer Networks"
             }
           }
         ]
@@ -184,35 +186,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "notepages:New notebook": false
     }
   },
-  "active": "ef5084a9c544087a",
+  "active": "1bf2169ad4134060",
   "lastOpenFiles": [
-    "Pasted image 20261030002431.png",
+    "UET-selfstudy/NOTE/Pasted image 20261023111119.png",
+    "SomeExtraKnowledge/Computer Networks.md",
+    "SomeExtraKnowledge",
+    "SomeExtraKnowledge/Pasted image 20261031133912.png",
+    "SomeExtraKnowledge/Pasted image 20261031133922.png",
+    "UET-selfstudy/NOTE/23-10 LA.md",
+    "UET-selfstudy/Calculus I/Pasted image 20261102204328.png",
+    "UET-selfstudy/Calculus I/Pasted image 20261102205111.png",
+    "UET-selfstudy/Calculus I/Pasted image 20261103003649.png",
+    "UET-selfstudy/Calculus I/Pasted image 20261103003534.png",
+    "UET-selfstudy/Calculus I/Pasted image 20261102215235.png",
+    "UET-selfstudy/Calculus I/Pasted image 20261102215111.png",
+    "UET-selfstudy/Calculus I/Pasted image 20261102213144.png",
     "UET-selfstudy/Linear Algebra for Engineering/C2.2. Định thức.md",
-    "UET-selfstudy/Calculus I/Pasted image 20261029191125.png",
-    "UET-selfstudy/Calculus I/C2.1. Đạo hàm.md",
-    "UET-selfstudy/Calculus I/Pasted image 20261030003650.png",
-    "UET-selfstudy/Calculus I/Pasted image 20261030003038.png",
-    "UET-selfstudy/Calculus I/Pasted image 20261030002544.png",
-    "UET-selfstudy/Calculus I/Pasted image 20261030002307.png",
-    "UET-selfstudy/Calculus I/Pasted image 20261030002023.png",
-    "UET-selfstudy/Calculus I/Pasted image 20261030001559.png",
-    "UET-selfstudy/Calculus I/Pasted image 20261030001151.png",
-    "UET-selfstudy/Calculus I/Pasted image 20261029235855.png",
-    "UET-selfstudy/NOTE/23-10.md",
-    "UET-selfstudy/Linear Algebra for Engineering/0.1. NOTE - Phân biệt ánh xạ.md",
-    "LMS Canvas UET.md",
-    "SHCD UET.md",
-    "Untitled.md",
-    "UET-selfstudy/Calculus I/C1.5. Hàm số liên tục và điểm gián đoạn.md",
-    "UET-selfstudy/Calculus I/C1.1. Hàm số một biến và C1.2. dãy số.md",
-    "UET-selfstudy/Calculus I/C1.4. Giới hạn 1mũ(oo).md",
-    "UET-selfstudy/Calculus I/C1.3. Vô cùng bé, vô cùng lớn.md",
+    "UET-selfstudy/Calculus I/C2.2. Định lí các hàm khả vi.md",
+    "UET-selfstudy/Calculus I/0.1. NOTE - Phân biệt ánh xạ.md",
+    "UET-selfstudy/Linear Algebra for Engineering/Untitled.gnote",
+    "UET-selfstudy/Linear Algebra for Engineering/C2.1. Ma trận.md",
     "UET-selfstudy/Linear Algebra for Engineering/C1.2. Số phức dạng lượng giác.md",
     "UET-selfstudy/Linear Algebra for Engineering/C1.1. Số phức dạng chính tắc.md",
-    "UET-selfstudy/Linear Algebra for Engineering/C2.1. Ma trận.md",
+    "UET-selfstudy/Calculus I/C2.1. Đạo hàm.md",
+    "Untitled.gnote",
+    "Untitled 1.gnote",
+    "UET-selfstudy/Calculus I/C1.5. Hàm số liên tục và điểm gián đoạn.md",
+    "UET-selfstudy/Calculus I/C1.4. Giới hạn 1mũ(oo).md",
+    "UET-selfstudy/Calculus I/C1.3. Vô cùng bé, vô cùng lớn.md",
+    "UET-selfstudy/Calculus I/C1.1. Hàm số một biến và C1.2. dãy số.md",
+    "LMS Canvas UET.md",
+    "SHCD UET.md",
     "UET-selfstudy/C1.4. Giới hạn 1mũ(oo).md",
     "UET-selfstudy/NOTE",
     "NOTE",
@@ -226,13 +234,8 @@
     "UET-selfstudy/Calculus 1.md",
     "mèo con hôm nay không muốn đi học.md",
     "Welcome.md",
-    "Untitled.base",
-    "UET-selfstudy",
     "UET/Linear Algebra.md",
     "UET/Calculus 1.md",
-    "UET",
-    "Calculus 1.md",
-    "Linear Algebra.md",
-    "Untitled"
+    "Calculus 1.md"
   ]
 }

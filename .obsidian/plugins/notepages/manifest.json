@@ -1,0 +1,10 @@
+{
+  "id": "notepages",
+  "name": "NotePages",
+  "version": "1.0.3",
+  "minAppVersion": "1.5.12",
+  "description": "Create multi-page digital notebooks and whiteboards with stylus inking, paper templates, sticky notes, LaTeX math, and continuous scrolling.",
+  "author": "Vinh-Hung",
+  "authorUrl": "https://github.com/0xKurian",
+  "isDesktopOnly": false
+}
