@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a177eba811e0357",
+            "id": "61b9b13a6fc6fa86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SomeExtraKnowledge/Computer Networks.md",
+                "file": "UET-selfstudy/Linear Algebra for Engineering/C2.2. Định thức.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Networks"
+              "title": "C2.2. Định thức"
+            }
+          },
+          {
+            "id": "62d110595205d4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UET-selfstudy/Linear Algebra for Engineering/C2.3. Hạng ma trận.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C2.3. Hạng ma trận"
+            }
+          },
+          {
+            "id": "e54efc4c2af50e78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C2.4. Ma trận nghịch đảo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C2.4. Ma trận nghịch đảo"
+            }
+          },
+          {
+            "id": "89caba873ef146e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UET-selfstudy/NOTE/5 - 11 Cal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5 - 11 Cal"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,34 +233,39 @@
       "notepages:New notebook": false
     }
   },
-  "active": "1bf2169ad4134060",
+  "active": "89caba873ef146e8",
   "lastOpenFiles": [
-    "UET-selfstudy/NOTE/Pasted image 20261023111119.png",
+    "UET-selfstudy/Linear Algebra for Engineering/Pasted image 20261105235419.png",
+    "UET-selfstudy/Linear Algebra for Engineering/Pasted image 20261105170136.png",
+    "UET-selfstudy/Linear Algebra for Engineering/Pasted image 20261105210932.png",
+    "UET-selfstudy/Linear Algebra for Engineering/Pasted image 20261105170255.png",
+    "UET-selfstudy/Linear Algebra for Engineering/Pasted image 20261105170154.png",
+    "UET-selfstudy/Linear Algebra for Engineering/Pasted image 20261103214958.png",
+    "UET-selfstudy/Linear Algebra for Engineering/C2.5. Hệ phương trình tuyến tính.md",
+    "UET-selfstudy/Linear Algebra for Engineering/C2.4. Ma trận nghịch đảo.md",
+    "UET-selfstudy/Linear Algebra for Engineering/Pasted image 20261105235101.png",
+    "UET-selfstudy/Linear Algebra for Engineering/Pasted image 20261105234900.png",
+    "UET-selfstudy/Linear Algebra for Engineering/C2.2. Định thức.md",
+    "UET-selfstudy/Linear Algebra for Engineering/C2.3. Hạng ma trận.md",
+    "Pasted image 20261105230045.png",
+    "UET-selfstudy/Linear Algebra for Engineering/Pasted image 20261105230023.png",
+    "UET-selfstudy/Linear Algebra for Engineering/Pasted image 20261105225704.png",
+    "UET-selfstudy/NOTE/5 - 11 Cal.md",
+    "UET-selfstudy/Linear Algebra for Engineering/C2.1. Ma trận.md",
+    "UET-selfstudy/Calculus I/C1.3. Vô cùng bé, vô cùng lớn.md",
+    "UET-selfstudy/Calculus I/C2.2. Định lí các hàm khả vi.md",
+    "UET-selfstudy/Linear Algebra for Engineering/C1.2. Số phức dạng lượng giác.md",
     "SomeExtraKnowledge/Computer Networks.md",
     "SomeExtraKnowledge",
-    "SomeExtraKnowledge/Pasted image 20261031133912.png",
-    "SomeExtraKnowledge/Pasted image 20261031133922.png",
     "UET-selfstudy/NOTE/23-10 LA.md",
-    "UET-selfstudy/Calculus I/Pasted image 20261102204328.png",
-    "UET-selfstudy/Calculus I/Pasted image 20261102205111.png",
-    "UET-selfstudy/Calculus I/Pasted image 20261103003649.png",
-    "UET-selfstudy/Calculus I/Pasted image 20261103003534.png",
-    "UET-selfstudy/Calculus I/Pasted image 20261102215235.png",
-    "UET-selfstudy/Calculus I/Pasted image 20261102215111.png",
-    "UET-selfstudy/Calculus I/Pasted image 20261102213144.png",
-    "UET-selfstudy/Linear Algebra for Engineering/C2.2. Định thức.md",
-    "UET-selfstudy/Calculus I/C2.2. Định lí các hàm khả vi.md",
     "UET-selfstudy/Calculus I/0.1. NOTE - Phân biệt ánh xạ.md",
     "UET-selfstudy/Linear Algebra for Engineering/Untitled.gnote",
-    "UET-selfstudy/Linear Algebra for Engineering/C2.1. Ma trận.md",
-    "UET-selfstudy/Linear Algebra for Engineering/C1.2. Số phức dạng lượng giác.md",
     "UET-selfstudy/Linear Algebra for Engineering/C1.1. Số phức dạng chính tắc.md",
     "UET-selfstudy/Calculus I/C2.1. Đạo hàm.md",
     "Untitled.gnote",
     "Untitled 1.gnote",
     "UET-selfstudy/Calculus I/C1.5. Hàm số liên tục và điểm gián đoạn.md",
     "UET-selfstudy/Calculus I/C1.4. Giới hạn 1mũ(oo).md",
-    "UET-selfstudy/Calculus I/C1.3. Vô cùng bé, vô cùng lớn.md",
     "UET-selfstudy/Calculus I/C1.1. Hàm số một biến và C1.2. dãy số.md",
     "LMS Canvas UET.md",
     "SHCD UET.md",
@@ -232,10 +280,6 @@
     "UET-selfstudy/New folder",
     "UET-selfstudy/Calculus I",
     "UET-selfstudy/Calculus 1.md",
-    "mèo con hôm nay không muốn đi học.md",
-    "Welcome.md",
-    "UET/Linear Algebra.md",
-    "UET/Calculus 1.md",
-    "Calculus 1.md"
+    "mèo con hôm nay không muốn đi học.md"
   ]
 }
