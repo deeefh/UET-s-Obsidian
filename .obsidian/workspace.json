@@ -11,17 +11,40 @@
             "id": "bc21b85bc3a271e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "UET-selfstudy/Calculus I/C1.1. Hàm số một biến và C1.2. dãy số.md",
-                "mode": "source",
-                "source": false
+                "file": "UET-selfstudy/Calculus I/Pics/Pasted image 20261112172227.png"
               },
-              "icon": "lucide-file",
-              "title": "C1.1. Hàm số một biến và C1.2. dãy số"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261112172227"
+            }
+          },
+          {
+            "id": "6a63b9b600209769",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "UET-selfstudy/Calculus I/Pics/Pasted image 20261112174334.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20261112174334"
+            }
+          },
+          {
+            "id": "3d2e49132eb0306a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20261113002546.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20261113002546"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,19 +213,27 @@
       "notepages:New notebook": false
     }
   },
-  "active": "bc21b85bc3a271e3",
+  "active": "3d2e49132eb0306a",
   "lastOpenFiles": [
-    "UET-selfstudy/Linear Algebra for Engineering/Pics/Pasted image 20261022192038.png",
-    "UET-selfstudy/Linear Algebra for Engineering/Pics/Pasted image 20261021012933.png",
-    "UET-selfstudy/Linear Algebra for Engineering/Pics/Pasted image 20261110214901.png",
-    "UET-selfstudy/Linear Algebra for Engineering/Pics/Pasted image 20261110214638.png",
-    "UET-selfstudy/Linear Algebra for Engineering/Pics/Pasted image 20261110214333.png",
-    "UET-selfstudy/Linear Algebra for Engineering/Pics/Pasted image 20261110205456.png",
-    "UET-selfstudy/Linear Algebra for Engineering/Pics/Pasted image 20261110204650.png",
-    "UET-selfstudy/Linear Algebra for Engineering/Pics/Pasted image 20261110191059.png",
-    "UET-selfstudy/Linear Algebra for Engineering/Pics/Pasted image 20261110190909.png",
-    "UET-selfstudy/Linear Algebra for Engineering/Pics/Pasted image 20261110190201.png",
-    "UET-selfstudy/Linear Algebra for Engineering/Pics/Pasted image 20261110190016.png",
+    "1. Lý thuyết số.md",
+    "Pasted image 20261113002601.png",
+    "Pasted image 20261113002546.png",
+    "UET-selfstudy/Calculus I/Pics/Pasted image 20261112174334.png",
+    "Algo",
+    "UET-selfstudy/Calculus I/C2.2. Định lí các hàm khả vi.md",
+    "AnotherLife/myselfnfuture.md",
+    "AnotherLife",
+    "New folder",
+    "UET-selfstudy/Calculus I/Pics/Pasted image 20261112174329.png",
+    "UET-selfstudy/Calculus I/Pics/Pasted image 20261112174325.png",
+    "UET-selfstudy/Calculus I/Pics/Pasted image 20261112174317.png",
+    "UET-selfstudy/Calculus I/Pics/Pasted image 20261112173922.png",
+    "UET-selfstudy/Calculus I/Pics/Pasted image 20261112164708.png",
+    "UET-selfstudy/Calculus I/Pics/Pasted image 20261112172227.png",
+    "UET-selfstudy/Calculus I/Pics/Pasted image 20261112172012.png",
+    "UET-selfstudy/Calculus I/C2.1. Đạo hàm.md",
+    "UET-selfstudy/Calculus I/C1.3. Vô cùng bé, vô cùng lớn.md",
+    "UET-selfstudy/Calculus I/C1.1. Hàm số một biến và C1.2. dãy số.md",
     "UET-selfstudy/Linear Algebra for Engineering/Pics",
     "UET-selfstudy/Linear Algebra for Engineering/New folder",
     "UET-selfstudy/Calculus I/Pics",
@@ -211,8 +242,6 @@
     "0.4. NOTE - Tim nhanh ma tran nghich dao.md",
     "UET-selfstudy/NOTE/5 - 11 Cal.md",
     "UET-selfstudy/NOTE/23-10 LA.md",
-    "UET-selfstudy/Calculus I/C1.1. Hàm số một biến và C1.2. dãy số.md",
-    "UET-selfstudy/Calculus I/C2.2. Định lí các hàm khả vi.md",
     "UET-selfstudy/Linear Algebra for Engineering/C2.5. Hệ phương trình tuyến tính.md",
     "UET-selfstudy/Linear Algebra for Engineering/C2.4. Ma trận nghịch đảo.md",
     "UET-selfstudy/Linear Algebra for Engineering/C2.3. Hạng ma trận.md",
@@ -220,23 +249,16 @@
     "UET-selfstudy/Linear Algebra for Engineering/C3.1. Không gian Vector.md",
     "UET-selfstudy/Linear Algebra for Engineering/C3.2. Độc lập, phụ thuộc tuyến tính.md",
     "UET-selfstudy/Linear Algebra for Engineering/C2.1. Ma trận.md",
-    "UET-selfstudy/Calculus I/C1.3. Vô cùng bé, vô cùng lớn.md",
     "UET-selfstudy/Linear Algebra for Engineering/C1.2. Số phức dạng lượng giác.md",
     "SomeExtraKnowledge/Computer Networks.md",
     "SomeExtraKnowledge",
     "UET-selfstudy/Linear Algebra for Engineering/Untitled.gnote",
     "UET-selfstudy/Linear Algebra for Engineering/C1.1. Số phức dạng chính tắc.md",
-    "UET-selfstudy/Calculus I/C2.1. Đạo hàm.md",
     "Untitled.gnote",
-    "Untitled 1.gnote",
     "UET-selfstudy/Calculus I/C1.5. Hàm số liên tục và điểm gián đoạn.md",
     "UET-selfstudy/Calculus I/C1.4. Giới hạn 1mũ(oo).md",
     "LMS Canvas UET.md",
     "SHCD UET.md",
-    "UET-selfstudy/C1.4. Giới hạn 1mũ(oo).md",
-    "UET-selfstudy/NOTE",
-    "NOTE",
-    "C1.4. Giới hạn 1mũ(oo).md",
-    "UET-selfstudy/23-10.md"
+    "UET-selfstudy/C1.4. Giới hạn 1mũ(oo).md"
   ]
 }
